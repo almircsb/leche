@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1373555353 source:c:\users\prof.almir\documents\proyectos\leche\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+
